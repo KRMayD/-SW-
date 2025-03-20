@@ -1,1 +1,1 @@
-print("깃 테스트")
+print("hello world")
